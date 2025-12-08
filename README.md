@@ -1,5 +1,7 @@
 # HyperGas-GMD
 
+![](figures/cover.png)
+
 ## Usage
 
 This repository contains scripts used in the GMD manuscript "HyperGas 1.0: A Python package for analyzing hyperspectral data for greenhouse gases from retrieval to emission rate quantification."
