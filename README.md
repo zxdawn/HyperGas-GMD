@@ -4,10 +4,6 @@
 
 This repository contains scripts used in the GMD manuscript "HyperGas 1.0: A Python package for analyzing hyperspectral data for greenhouse gases from retrieval to emission rate quantification."
 
-All input data are available in the Zenodo dataset titled ["Dataset for HyperGas 1.0: A Python package for analyzing hyperspectral data for greenhouse gases from retrieval to emission rate quantification"]().
-
-To use the data, download the compressed file, extract it into the root directory, and rename the folder to "data". This will ensure that all Jupyter Notebooks run correctly.
-
 ## Notebook structure
 
 - ch4\_mf\_lmf.ipynb
