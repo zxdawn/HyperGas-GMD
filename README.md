@@ -5,6 +5,7 @@
 ## Usage
 
 This repository contains scripts used in the GMD manuscript "HyperGas 1.0: A Python package for analyzing hyperspectral data for greenhouse gases from retrieval to emission rate quantification."
+The input data is available on [Zenodo](https://doi.org/10.5281/zenodo.18162026).
 
 ## Notebook structure
 
@@ -50,4 +51,4 @@ This repository contains scripts used in the GMD manuscript "HyperGas 1.0: A Pyt
 
 ## Reference
 
-Zhang, Xin, et al. "HyperGas 1.0: A Python package for analyzing hyperspectral data for greenhouse gases from retrieval to emission rate quantification" (2025, under review).
+Zhang, Xin, et al. "HyperGas 1.0: A Python package for analyzing hyperspectral data for greenhouse gases from retrieval to emission rate quantification" (2026, [under review](https://egusphere.copernicus.org/preprints/2026/egusphere-2025-6127/)).
